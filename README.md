@@ -5,4 +5,4 @@
 
 тест-кейс для корзины и оплаты - Qase https://app.qase.io/project/G7?previewMode=side&suite=158&tab=properties , документ https://github.com/Sushkova88/-web/blob/main/G7-2024-05-15.pdf
 
-Отчеты о дефекте модули корзины, оплаты и оформления заказов - Qase -  , Таблица в Excel - 
+Отчеты о дефекте модули корзины, оплаты и оформления заказов - Qase - https://github.com/Sushkova88/-web/blob/main/G7-Express%2Brun%2B2024_05_22.pdf  , Таблица в Excel - 
