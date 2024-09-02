@@ -6,7 +6,7 @@
 
 <a href= "https://docs.google.com/spreadsheets/d/1LI6NiH6rig6ES4Y-RFdDW3yR9m0VIDrud7o21JXhrJM/edit#gid=0"> Чек-лист для корзины и оплаты </a>
 
-<a href= "https://github.com/Sushkova88/-web/blob/main/G7-2024-05-15.pdf"> Тест-кейс для корзины и оплаты </a>, <a href= "https://app.qase.io/project/G7?previewMode=side&suite=158&tab=properties"> Qase </a> 
+<a href= "https://github.com/Sushkova88/-web/blob/main/G7-2024-05-15.pdf"> Тест-кейс для корзины и оплаты </a>, <a href= "https://app.qase.io/project/PORTFOLIO"> Qase </a> 
 
 <a href= "https://github.com/Sushkova88/-web/blob/main/%D0%94%D0%97%20%D0%B1%D0%B0%D0%B3%D0%B8%20(9).xlsx"> Отчеты о дефекте модули корзины, оплаты и оформления заказов </a>, <a href= "https://github.com/Sushkova88/-web/blob/main/G7-Express%2Brun%2B2024_05_22.pdf"> Qase </a>
 
